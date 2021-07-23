@@ -1,0 +1,22 @@
+{
+  "name": "tpproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajorProject2022/TPProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajorProject2022/TPProject/issues"
+  },
+  "homepage": "https://github.com/MajorProject2022/TPProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
